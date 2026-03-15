@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Forked from [Betting-On-The-Races-React](link-to-original-repo](https://github.com/jrsossaman/Betting-On-The-Races-React.git)
+
+Original contributors:
+- Tyler32J
+- sf-bcca
+- ChaseGreen98
+- jrsossaman
