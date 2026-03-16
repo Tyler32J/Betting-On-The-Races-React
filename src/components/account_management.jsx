@@ -4,7 +4,7 @@ import updateUser from "../api/update_user.jsx";
 import deleteUser from "../api/delete_user.jsx"
 
 function AccountManagement() {
-    const { user, wallet, registeredUsers, setUser, delete_user } = useRaceBetting();
+    const { user, wallet, registeredUsers, setUser } = useRaceBetting();
     const [activeTab, setActiveTab] = useState("profile");
     const [editMode, setEditMode] = useState(false);
     const [editedName, setEditedName] = useState(user?.name || "");

@@ -171,7 +171,7 @@ export function RaceBettingProvider({ children }) {
                 )
             );
         }
-    }, [wallet]);
+    }, [wallet, user]);
 
     // Update user stats when race history changes
     useEffect(() => {
